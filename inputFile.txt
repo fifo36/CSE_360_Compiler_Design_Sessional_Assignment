@@ -1,0 +1,4 @@
+Hello Man whats up
+How old are you
+//hello
+/*hara
